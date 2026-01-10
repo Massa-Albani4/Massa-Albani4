@@ -9,4 +9,4 @@ responsive design, and performance.
 I prioritize clean structure, scalability, and interfaces that are intuitive and efficient, not just usable.
 I'm constantly learning and shipping real work.
 
-Currently learning backend development and cybersecurity.
+Currently learning backend development.
